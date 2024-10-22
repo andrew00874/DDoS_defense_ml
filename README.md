@@ -32,7 +32,7 @@ DDoS 공격 탐지 알고리즘은 머신러닝 모델을 기반으로 하며, �
 1. 프로젝트를 클론하거나, 프로젝트 압축 파일을 다운로드 후 압축을 해제합니다.
 
 ```bash
-git clone https://github.com/NaRDo627/ddos-defense-ml.git
+git clone https://github.com/andrew00874/DDoS_defense_ml
 cd ddos-defense-ml
 ```
 
